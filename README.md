@@ -20,7 +20,7 @@
 
 **Google Play**
 
-$\color{#ea4335}{search "WingPig" in google play}$
+search "WingPig" in Google Play
 
 
 ### iPhone
@@ -29,6 +29,6 @@ $\color{#ea4335}{search "WingPig" in google play}$
 
 ***method 1：***
 
-**AppStore**
+**App Store**
 
-$\color{#ea4335}{search "WingPig" in AppStore}$
+search "WingPig" in App Store
