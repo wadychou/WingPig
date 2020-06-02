@@ -1,5 +1,5 @@
 # WingPig
-![](image/Icon-512.png)
+![](image/Icon-256R.png)
 
 ## download
 
